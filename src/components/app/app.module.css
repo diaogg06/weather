@@ -1,0 +1,16 @@
+
+.currentText {
+    font-size: 42px;
+    font-weight: 600;
+    margin: 0;
+    padding: 40px;
+    padding-left: 80px;
+    align-items: center;
+    display: flex;
+}
+
+p {
+    padding-left: 40px;
+    font-size: 54px;
+    font-weight: 800;
+}
